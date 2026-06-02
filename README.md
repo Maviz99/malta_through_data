@@ -33,8 +33,5 @@ This project is a **living repository**. It starts today (June 2026) as a pre-tr
 ---
 
 ## 🚀 How to Run the App Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Maviz99/malta_through_data.git](https://github.com/Maviz99/malta_through_data.git)
-   cd malta_through_data
+ **Clone the repository:**
+ 
